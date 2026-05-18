@@ -16,7 +16,7 @@
 				"fileName": "vacunacion_rural_movil.csv",
 				"container": "bronze"
 			},
-			"columnDelimiter": ";",
+			"columnDelimiter": ",",
 			"escapeChar": "\\",
 			"firstRowAsHeader": true,
 			"quoteChar": "\""

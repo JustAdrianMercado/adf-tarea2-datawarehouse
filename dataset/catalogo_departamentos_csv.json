@@ -16,7 +16,7 @@
 				"fileName": "catalogo_departamentos.csv",
 				"container": "bronze"
 			},
-			"columnDelimiter": ";",
+			"columnDelimiter": ",",
 			"escapeChar": "\\",
 			"firstRowAsHeader": true,
 			"quoteChar": "\""

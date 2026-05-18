@@ -16,7 +16,7 @@
 				"fileName": "vacunacion_la_paz.csv",
 				"container": "bronze"
 			},
-			"columnDelimiter": ";",
+			"columnDelimiter": ",",
 			"escapeChar": "\\",
 			"firstRowAsHeader": true,
 			"quoteChar": "\""
